@@ -1,4 +1,0 @@
-root = "."
-tmp_dir = "tmp"
-include_ext = ["go"]
-include_dir = ["tmp", "vendor"]
